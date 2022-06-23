@@ -991,10 +991,6 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 1280999335}
     - target: {fileID: 3328312950161816313, guid: dd0e1bdbc79141142ac19c639f84abe2, type: 3}
-      propertyPath: radius
-      value: 150
-      objectReference: {fileID: 0}
-    - target: {fileID: 3328312950161816313, guid: dd0e1bdbc79141142ac19c639f84abe2, type: 3}
       propertyPath: ammoText
       value: 
       objectReference: {fileID: 709215992}
@@ -1006,22 +1002,6 @@ PrefabInstance:
       propertyPath: crosshair
       value: 
       objectReference: {fileID: 853522663}
-    - target: {fileID: 3328312950161816313, guid: dd0e1bdbc79141142ac19c639f84abe2, type: 3}
-      propertyPath: boostSpeed
-      value: 18
-      objectReference: {fileID: 0}
-    - target: {fileID: 3328312950161816313, guid: dd0e1bdbc79141142ac19c639f84abe2, type: 3}
-      propertyPath: boostCharge
-      value: 0.125
-      objectReference: {fileID: 0}
-    - target: {fileID: 3328312950161816313, guid: dd0e1bdbc79141142ac19c639f84abe2, type: 3}
-      propertyPath: playerAngle
-      value: 1.8
-      objectReference: {fileID: 0}
-    - target: {fileID: 3328312950161816313, guid: dd0e1bdbc79141142ac19c639f84abe2, type: 3}
-      propertyPath: defaultSpeed
-      value: 10
-      objectReference: {fileID: 0}
     - target: {fileID: 5037026897710592021, guid: dd0e1bdbc79141142ac19c639f84abe2, type: 3}
       propertyPath: m_RootOrder
       value: 3
